@@ -1,6 +1,6 @@
-![MasterHead](https://media.licdn.com/dms/image/C5616AQGP_tuhYgluqg/profile-displaybackgroundimage-shrink_350_1400/0/1643989581755?e=1700697600&v=beta&t=8gZcgTT-9L7CPepLbcVeqfjzH1ZlPg5OMNfTOBsi3DE)
+![Mern](https://github.com/RanvijayTiwari/A-to-Z/assets/117263389/4b1259f6-c3f0-4f7a-ac3f-f8b6a8699276)
 <h1 align="center">Hi 👋, I'm Ranvijay Tiwari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranvijaytiwari&label=Profile%20views&color=0e75b6&style=flat" alt="ranvijaytiwari" /> </p>
