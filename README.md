@@ -36,7 +36,7 @@
     <a href="https://ranvijaytiwari.github.io/">
           <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
     </a> &nbsp;
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/ranvijay-tiwari-a6636b219/">
+    <a href="https://www.linkedin.com/in/ranvijay-tiwari-a6636b219/">
           <img alt="Linkdin" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
     </a>
     
